@@ -1,6 +1,6 @@
 ## Let and const block
 let allow us to declare variable inside scope or limited to particular scope of block statement.\
-Difference between let and var\
+Difference between let and var
 - let is block scope => var is function scope
 - let does not allow to redeclare variables. => var allows to redeclare variables
 - Hoisting does not occur in let. => Hoisting occurs in var
